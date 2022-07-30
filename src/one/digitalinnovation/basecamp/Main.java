@@ -11,7 +11,7 @@ public class Main {
         Calculadora.multiplicacao(7, 8);
         Calculadora.divisao(5, 2.5);
 
-       // Mensagem
+      // Mensagem
         System.out.println("Exercicio.mensagem");
         Mensagem.obtermensagem(9);
         Mensagem.obtermensagem(14);
@@ -22,7 +22,6 @@ public class Main {
         Emprestimo.calcular(1000, Emprestimo.getDuasParcelas());
         Emprestimo.calcular(1000, Emprestimo.getTresParcelas());
         Emprestimo.calcular(1000, 5);
-
 
 
 
